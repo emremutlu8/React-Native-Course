@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "Content"
+    },
+    {
+      "title": "Wat",
+      "content": "Tha",
+      "id": 5
+    },
+    {
+      "title": "Emre MUTLU",
+      "content": "BlogPost",
+      "id": 6
+    },
+    {
+      "title": "tre",
+      "content": "werwer",
+      "id": 13
+    }
+  ]
+}
